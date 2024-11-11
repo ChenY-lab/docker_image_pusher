@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 # Node.js
 node:18-alpine
+# Nginx
+nginx:1.23
